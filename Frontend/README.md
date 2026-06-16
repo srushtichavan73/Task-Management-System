@@ -42,21 +42,27 @@ src/
 
 ## 🖥️ Screenshots
 
+### Login Page
+![Login](screenshots/login.png)
+
 ### Dashboard
 - Stats cards showing total projects, tasks, completed & pending
 - Pie chart — Tasks by Status
 - Bar chart — Tasks by Priority
 - Project cards grid
+![Dashboard](screenshots/dashboard.png)
 
 ### Kanban Board
 - 4 columns: To Do, In Progress, Review, Done
 - Task cards with priority badges
 - Move tasks between columns
 - Delete tasks
+![Dashboard](screenshots/kanban.png)
 
 ### Comments
 - Click any task to open detail modal
 - Add & delete comments
+![Dashboard](screenshots/comments.png)
 
 ## ⚙️ Setup & Run
 
