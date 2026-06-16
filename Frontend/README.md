@@ -59,6 +59,9 @@ src/
 - Delete tasks
 ![Dashboard](screenshots/kanban.png)
 
+### Project Page
+![Login](screenshots/project_page.png)
+
 ### Comments
 - Click any task to open detail modal
 - Add & delete comments
